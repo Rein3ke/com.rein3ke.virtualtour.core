@@ -1,0 +1,13 @@
+{
+  "name": "com.rein3ke.virtualtour.core",
+  "version": "1.0.0",
+  "displayName": "Virtual Tour - Core",
+  "description": "A package that contains essential scripts to be shared between multiple projects.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Marvin Kullick",
+    "email": "mkullick@web.de"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
